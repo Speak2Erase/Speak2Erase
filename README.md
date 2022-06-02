@@ -6,6 +6,8 @@ I code in a large variety of languages, but mainly Ruby, Rust, and C++. I really
 [![speak2erase's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Speak2Erase&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Speak2Erase&theme=dark&count_private=true&include_all_commits=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=speak2erase&theme=gitdimmed)](https://github.com/ryo-ma/github-profile-trophy)
+
 ![snek gif](https://github.com/Speak2Erase/Speak2Erase/blob/output/github-contribution-grid-snake.svg)
 
 <!--
