@@ -1,8 +1,6 @@
 Hi, I'm **Lily**!
 
-I code in a large variety of languages, but mainly Ruby, Rust, and C++. I'm a big fan of coding in Rust, although I'm far better at C++ and Ruby. (for now)
-
-Currently, I program mainly in C++ although I would like to change that. I detest working with C++ for a variety of reasons- if you've worked with C++ you can guess- so I am very keen to get back into working with Ruby and to pick up Rust. I'm still learning Rust, so forgive me if I make any mistakes!
+I code in a large variety of languages, but mainly Ruby and Rust I'm a big fan of coding in Rust, although I'm far better at Ruby. (for now)
 
 GitHub Trophies
 ---
