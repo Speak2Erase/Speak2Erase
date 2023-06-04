@@ -22,5 +22,5 @@ Coding stats
 
 Snek
 ---
-![snek gif](https://github.com/Speak2Erase/Speak2Erase/blob/output/github-contribution-grid-snake.svg)
+![snek gif](https://github.com/Speak2Erase/Speak2Erase/blob/output/github-snake-dark.svg)
 ---
