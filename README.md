@@ -1,6 +1,6 @@
 Hi, I'm **Lily**!
 
-I code in a large variety of languages, but mainly Ruby and Rust I'm a big fan of coding in Rust, although I'm far better at Ruby. (for now)
+I code in mainly in Rust, with my current focus being Luminol!
 
 GitHub Trophies
 ---
