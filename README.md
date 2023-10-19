@@ -9,7 +9,7 @@ GitHub Trophies
 
 My projects
 ---
-[![Luminol](https://github-readme-stats.vercel.app/api/pin/?username=Speak2Erase&repo=Luminol&theme=dark)](https://github.com/Speak2Erase/Luminol)
+[![Luminol](https://github-readme-stats.vercel.app/api/pin/?username=Astrabit-ST&repo=Luminol&theme=dark)](https://github.com/Astrabit-ST/Luminol)
 [![ModShot](https://github-readme-stats.vercel.app/api/pin/?username=Astrabit-ST&repo=ModShot-Core&theme=dark)](https://github.com/Astrabit-ST/ModShot-Core)
 ---
 
