@@ -1,6 +1,6 @@
-Hi, I'm **Lily**!
+Hi, I'm **Melody**!
 
-I code in mainly in Rust, with my current focus being Luminol!
+I code in mainly in Rust, with my main focus being Luminol! I have too many projects right now to count. I generally rotate my focus on projects every few weeks to avoid burnout but I'm unfortunately really burned out right now '^^
 
 GitHub Trophies
 ---
