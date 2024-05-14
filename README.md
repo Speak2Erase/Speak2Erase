@@ -1,6 +1,8 @@
 Hi, I'm **Melody**!
 
-I code in mainly in Rust, with my main focus being Luminol! I have too many projects right now to count. I generally rotate my focus on projects every few weeks to avoid burnout but I'm unfortunately really burned out right now '^^
+I code in a *lot* of languages and can generally pick them up quickly. I'm best at Rust and C, but I started with Ruby. I've been trying to learn web development lately but cannot wrap my head around CSS. I'm ok at JavaScript, though!
+My main focus is Luminol and OneShot: Fading Memory! I have too many projects right now to count. I generally rotate my focus on projects every few weeks to avoid burnout but I'm unfortunately really burned out right now '^^
+If you'd like to hire me, I am currently looking for remote employment. You reach out to me at the email on my profile!
 
 GitHub Trophies
 ---
